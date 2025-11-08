@@ -1,3 +1,3 @@
 - for the Microsoft Fabric part i did not know if you can see if from your end so i uploaded screenshots
 - the grouping in fabrin was taking forever to load so i uploaded screenshots of the grouping settings i put 
-- for the publishing part i pressed publish and it worked :)
+- for the publishing part in MS Fabric i pressed publish and it worked :)
